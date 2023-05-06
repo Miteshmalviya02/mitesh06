@@ -1,0 +1,53 @@
+                                               Container Stroage Interface:
+
+*Introduction:
+container stroage interface is standard interface for orchestration system to interact with storage system.
+
+container stroage interface is invented by CNCF (Cloud Native Computing Foundation) and many
+industires including Google.This project was created for interact with storage system,kubernets is an 
+example for conatiner orchestration system.
+
+The contribution of google in this project was they provided reference implimentation for kubernetes by 
+interact with various storage system.
+CNCF (Cloud Native Computing Foundation) was one who started the project then later many industries 
+started contributed in this project.
+
+*Uses Cases:
+1)Data aggegation.
+2)Data consolation.
+3)Obserability.
+
+*Features:
+1) Easy to understand 
+2)User Friendly
+3)Logging
+4)Monitoring
+5)Scalability
+6)Accessability
+7)Multi-value
+8)Sanpshorting
+9)Cloning
+10)Merging
+
+*Before CSI:
+Before CSI there were many storage system but it was very difficult to maintain large amount data,CSI was 
+invented in Dec 2017 by cncf and many comapanies including Google.
+
+*Project Summary:
+Foundation/Organization:Google
+Licence:Apache2.0
+Brief Summary:container stroage interface is standard interface for orchestration system to interact with storage system.
+
+*Technical Deatils:
+CSI was invented in Dec 2017 by CNCF and many comapanies including Google,the main work of conatiner storage interface 
+is inserting ,deleting, merging etc. in a storage system.
+
+*Architectrue:
+Container Stroage Interface is main used for Storing the data 
+1) CSI Plugin.
+2)CSI Driver.
+
+
+
+
+ 
