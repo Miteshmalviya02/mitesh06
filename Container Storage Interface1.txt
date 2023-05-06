@@ -47,6 +47,13 @@ Container Stroage Interface is main used for Storing the data
 1) CSI Plugin.
 2)CSI Driver.
 
+CSI Plugin: it is CSI Driver where the data can be insereted and deleted.
+
+CSI Driver: it is atype of architecture of csi in which the data is uploaded.
+
+
+
+
 
 
 
